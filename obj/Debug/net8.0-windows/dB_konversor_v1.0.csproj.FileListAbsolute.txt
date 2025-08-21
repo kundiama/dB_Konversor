@@ -1,0 +1,16 @@
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\bin\Debug\net8.0-windows\dB_konversor_v1.0.exe
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\bin\Debug\net8.0-windows\dB_konversor_v1.0.deps.json
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\bin\Debug\net8.0-windows\dB_konversor_v1.0.runtimeconfig.json
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\bin\Debug\net8.0-windows\dB_konversor_v1.0.dll
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\bin\Debug\net8.0-windows\dB_konversor_v1.0.pdb
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\dB_konversor_v1._0.Form1.resources
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\dB_konversor_v1.0.csproj.GenerateResource.cache
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\dB_konversor_v1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\dB_konversor_v1.0.AssemblyInfoInputs.cache
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\dB_konversor_v1.0.AssemblyInfo.cs
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\dB_konversor_v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\dB_konversor_v1.0.dll
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\refint\dB_konversor_v1.0.dll
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\dB_konversor_v1.0.pdb
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\dB_konversor_v1.0.genruntimeconfig.cache
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\ref\dB_konversor_v1.0.dll
