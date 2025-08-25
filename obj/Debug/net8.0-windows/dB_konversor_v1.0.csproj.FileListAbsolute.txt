@@ -14,3 +14,4 @@ C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj
 C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\dB_konversor_v1.0.pdb
 C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\dB_konversor_v1.0.genruntimeconfig.cache
 C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\ref\dB_konversor_v1.0.dll
+C:\Users\Vilma Junior Joaquim\Documents\portfolio_Kundiama\dB_konversor_v1.0\obj\Debug\net8.0-windows\dB_konversor_v1.0.sourcelink.json
