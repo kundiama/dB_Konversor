@@ -31,13 +31,15 @@
             btnConverter = new Button();
             lbResultado = new Label();
             txtValorAConverter = new TextBox();
+            cmbUnidadeEntrada = new ComboBox();
+            cmbUnidadeSaida = new ComboBox();
             SuspendLayout();
             // 
             // btnConverter
             // 
-            btnConverter.Location = new Point(12, 129);
+            btnConverter.Location = new Point(12, 167);
             btnConverter.Name = "btnConverter";
-            btnConverter.Size = new Size(95, 23);
+            btnConverter.Size = new Size(107, 29);
             btnConverter.TabIndex = 0;
             btnConverter.Text = "CONVERTER";
             btnConverter.UseVisualStyleBackColor = true;
@@ -46,7 +48,7 @@
             // lbResultado
             // 
             lbResultado.AutoSize = true;
-            lbResultado.Location = new Point(126, 96);
+            lbResultado.Location = new Point(125, 135);
             lbResultado.Name = "lbResultado";
             lbResultado.Size = new Size(59, 15);
             lbResultado.TabIndex = 1;
@@ -56,19 +58,39 @@
             // 
             txtValorAConverter.Location = new Point(12, 45);
             txtValorAConverter.Name = "txtValorAConverter";
-            txtValorAConverter.Size = new Size(288, 23);
+            txtValorAConverter.Size = new Size(295, 23);
             txtValorAConverter.TabIndex = 2;
+            // 
+            // cmbUnidadeEntrada
+            // 
+            cmbUnidadeEntrada.FormattingEnabled = true;
+            cmbUnidadeEntrada.Items.AddRange(new object[] { "watts", "miliwatts", "dB", "dBm", "dBu", "dBv" });
+            cmbUnidadeEntrada.Location = new Point(12, 87);
+            cmbUnidadeEntrada.Name = "cmbUnidadeEntrada";
+            cmbUnidadeEntrada.Size = new Size(121, 23);
+            cmbUnidadeEntrada.TabIndex = 3;
+            // 
+            // cmbUnidadeSaida
+            // 
+            cmbUnidadeSaida.FormattingEnabled = true;
+            cmbUnidadeSaida.Items.AddRange(new object[] { "watts", "miliwatts", "dB", "dBm", "dBu", "dBv" });
+            cmbUnidadeSaida.Location = new Point(186, 87);
+            cmbUnidadeSaida.Name = "cmbUnidadeSaida";
+            cmbUnidadeSaida.Size = new Size(121, 23);
+            cmbUnidadeSaida.TabIndex = 4;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(319, 170);
+            ClientSize = new Size(319, 213);
+            Controls.Add(cmbUnidadeSaida);
+            Controls.Add(cmbUnidadeEntrada);
             Controls.Add(txtValorAConverter);
             Controls.Add(lbResultado);
             Controls.Add(btnConverter);
             Name = "Form1";
-            Text = "Form1";
+            Text = "dB Konversor";
             ResumeLayout(false);
             PerformLayout();
         }
@@ -78,5 +100,7 @@
         private Button btnConverter;
         private Label lbResultado;
         private TextBox txtValorAConverter;
+        private ComboBox cmbUnidadeEntrada;
+        private ComboBox cmbUnidadeSaida;
     }
 }
