@@ -38,11 +38,11 @@ namespace dB_konversor_v1._0
 
                 case "dB": Console.WriteLine("Em desenvolvimento"); break;
 
-                case "dBm": Console.WriteLine("Em desenvolvimento"); break;
+                case "dBm": resultadoFinalDbm(valor_entrada, unidadeSaida); break;
 
-                case "dBu": Console.WriteLine("Em desenvolvimento"); break;
+                    //case "dBu": Console.WriteLine("Em desenvolvimento"); break;
 
-                case "dBv": Console.WriteLine("Em desenvolvimento"); break;
+                    //case "dBv": Console.WriteLine("Em desenvolvimento"); break;
             }
         }
 
@@ -53,7 +53,7 @@ namespace dB_konversor_v1._0
                 case "miliwatts":
                                               
                     valor_saida = valor_entrada*1000;
-                    lbResultado.Text = valor_saida.ToString();
+                    lbResultado.Text = valor_saida.ToString()+ "miliwatts";
                     break;
 
                 case "dB":
@@ -64,15 +64,6 @@ namespace dB_konversor_v1._0
                 case "dBm":
                     valor_saida = 10 * Math.Log10(valor_entrada / 0.001);
                     lbResultado.Text = valor_saida.ToString();
-                    break;
-
-                case "dBw":
-                    
-                    lbResultado.Text = "Em implementação";
-                    break;
-
-                case "dBu":
-                    lbResultado.Text = "Em implementação";
                     break;
             }
             
@@ -90,21 +81,38 @@ namespace dB_konversor_v1._0
                     break;
 
                 case "dB":
-                    lbResultado.Text = "Em implementação";
+                    valor_saida = valor_entrada + 30;
+                    lbResultado.Text = valor_saida.ToString();
                     break;
 
                 case "dBm":
                     valor_saida = 10 * Math.Log10(valor_entrada);
                     lbResultado.Text = valor_saida.ToString();
                     break;
+            }
 
-                case "dBw":
+        }
 
-                    lbResultado.Text = "Em implementação";
+        private void resultadoFinalDbm(double valor_entrada, string unidadeSaida)
+        {
+            //Switch para verificar qual conversão executar   
+            switch (unidadeSaida)
+            {
+                case "watts":
+                    double auxiliar = (valor_entrada - 30)/ 10;
+                    valor_saida = Math.Pow(10, auxiliar);
+                    lbResultado.Text = valor_saida.ToString();
                     break;
 
-                case "dBu":
-                    lbResultado.Text = "Em implementação";
+                case "mw":
+                    double auxiliar1 = (valor_entrada) / 10;
+                    valor_saida = Math.Pow(10, auxiliar1);
+                    lbResultado.Text = valor_saida.ToString();
+                    break;
+
+                case "dB":
+                    valor_saida = valor_entrada-30;
+                    lbResultado.Text = valor_saida.ToString();
                     break;
             }
 

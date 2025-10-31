@@ -64,7 +64,7 @@
             // cmbUnidadeEntrada
             // 
             cmbUnidadeEntrada.FormattingEnabled = true;
-            cmbUnidadeEntrada.Items.AddRange(new object[] { "watts", "miliwatts", "dB", "dBm", "dBu", "dBv" });
+            cmbUnidadeEntrada.Items.AddRange(new object[] { "watts", "miliwatts", "dB", "dBm" });
             cmbUnidadeEntrada.Location = new Point(12, 87);
             cmbUnidadeEntrada.Name = "cmbUnidadeEntrada";
             cmbUnidadeEntrada.Size = new Size(121, 23);
@@ -73,7 +73,7 @@
             // cmbUnidadeSaida
             // 
             cmbUnidadeSaida.FormattingEnabled = true;
-            cmbUnidadeSaida.Items.AddRange(new object[] { "watts", "miliwatts", "dB", "dBm", "dBu", "dBv" });
+            cmbUnidadeSaida.Items.AddRange(new object[] { "watts", "miliwatts", "dB", "dBm" });
             cmbUnidadeSaida.Location = new Point(186, 87);
             cmbUnidadeSaida.Name = "cmbUnidadeSaida";
             cmbUnidadeSaida.Size = new Size(121, 23);
