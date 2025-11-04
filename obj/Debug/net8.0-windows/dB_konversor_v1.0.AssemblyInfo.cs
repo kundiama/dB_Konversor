@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dB_konversor_v1.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dae4a3e6399d82beae5e8a3a5642dc6809ac78be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fa41be3d3e3647860762742da0d34561ea69d29")]
 [assembly: System.Reflection.AssemblyProductAttribute("dB_konversor_v1.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dB_konversor_v1.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

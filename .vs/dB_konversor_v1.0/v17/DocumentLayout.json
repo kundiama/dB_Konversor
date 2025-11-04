@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Vilma Junior Joaquim\\Documents\\portfolio_Kundiama\\dB_konversor_v1.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20963C6B-800C-4037-AEB0-1F349D2341C1}|dB_konversor_v1.0.csproj|C:\\Users\\Vilma Junior Joaquim\\Documents\\portfolio_Kundiama\\dB_konversor_v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{20963C6B-800C-4037-AEB0-1F349D2341C1}|dB_konversor_v1.0.csproj|c:\\users\\vilma junior joaquim\\documents\\portfolio_kundiama\\db_konversor_v1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{20963C6B-800C-4037-AEB0-1F349D2341C1}|dB_konversor_v1.0.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -33,8 +33,7 @@
               "ToolTip": "C:\\Users\\Vilma Junior Joaquim\\Documents\\portfolio_Kundiama\\dB_konversor_v1.0\\dB_konversor_v1.0.csproj",
               "RelativeToolTip": "dB_konversor_v1.0.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-25T11:40:59.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T11:40:59.504Z"
             },
             {
               "$type": "Document",
@@ -42,16 +41,12 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Vilma Junior Joaquim\\Documents\\portfolio_Kundiama\\dB_konversor_v1.0\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Vilma Junior Joaquim\\Documents\\portfolio_Kundiama\\dB_konversor_v1.0\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
+              "ToolTip": "C:\\Users\\Vilma Junior Joaquim\\Documents\\portfolio_Kundiama\\dB_konversor_v1.0\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
               "ViewState": "AgIAACEAAAAAAAAAAAAiwDYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T13:52:56.068Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -59,11 +54,15 @@
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Vilma Junior Joaquim\\Documents\\portfolio_Kundiama\\dB_konversor_v1.0\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Vilma Junior Joaquim\\Documents\\portfolio_Kundiama\\dB_konversor_v1.0\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Vilma Junior Joaquim\\Documents\\portfolio_Kundiama\\dB_konversor_v1.0\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "Form1.cs [Projeto]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T13:47:51.731Z",
               "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
